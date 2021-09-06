@@ -1,5 +1,4 @@
 ### Techniques for organizing code
-Describes techniques from chapter 34 in Clean Architecture. Demo of real world projects. Bonus slide on Hibernate.
 * Slides available at: https://docs.google.com/presentation/d/10WMTVjZYNTsutstoy24Rla7_Tq6WsZHOUdHxkbglE44/edit#slide=id.g9f2cdf75cf_0_13
 
 ### Invoicing out of legacy
@@ -61,3 +60,9 @@ Intermediate presentation about the JavaScript framework Knockout.js.
 Presentation giving an introduction to Web-based video streaming.
 * Slides available at: https://arild.github.com/fagdag_aug2012
 
+### Master Thesis
+Explores cluster monitoring using an interactive and high-resolution display wall. Interactive real- time visualization of process-level data, such as CPU, memory, network and disk usage.
+* Thesis available at: http://hdl.handle.net/10037/3991
+* Demonstration video: http://www.youtube.com/watch?v=8YRnXJhrfDQ
+* Best master thesis award: https://uit.no/nyheter/artikkel?p_document_id=305771
+* Publication in Norsk Informatikk Konferanse: http://www.nik.no/2011/3-3-nilsen11WallMon.pdf
