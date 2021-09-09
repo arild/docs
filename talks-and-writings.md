@@ -39,26 +39,26 @@ Focus on dependency injection and tips & tricks for writing software tests.
 
 ### Apache Spark Workshop
 Introductory workshop to Apache Spark held at Scalabin meetup.
-* Slides available at: https://arild.github.com/spark-workshop
+* Slides available at: https://arild.github.io/spark-workshop
 * Code exercises available at: https://github.com/arild/spark-workshop
 
 ### CSP
 Presentation about the concurrency model Communicating Sequential Processes (CSP).
-* Slides available at: https://arild.github.com/csp-presentation
+* Slides available at: https://arild.github.io/csp-presentation
 * Demo code available at: https://github.com/arild/csp-presentation
 
 ### Scala Workshop
 Introductory workshop to Scala and Scala’s Futures and Promises concurrency abstraction.
-* Slides available at: https://arild.github.com/scala-workshop
+* Slides available at: https://arild.github.io/scala-workshop
 * Code exercises available at: https://github.com/arild/scala-workshop
 
 ### Knockout.js
 Intermediate presentation about the JavaScript framework Knockout.js.
-* Slides available at: https://arild.github.com/fagdag_nov2012
+* Slides available at: http://arild.github.io/knockout_presentation/
 
 ### Video streaming
 Presentation giving an introduction to Web-based video streaming.
-* Slides available at: https://arild.github.com/fagdag_aug2012
+* Slides available at: https://arild.github.io/fagdag_aug2012
 
 ### Master Thesis
 Explores cluster monitoring using an interactive and high-resolution display wall. Interactive real- time visualization of process-level data, such as CPU, memory, network and disk usage.
