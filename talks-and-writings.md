@@ -25,7 +25,7 @@ Lightning talk about Kotlin’s DSL (domain specific language). Held at FINN.no 
 
 ### Kotlin Workshop
 Introductory workshop to the Kotlin programming language. Held at FINN.no and NTNU.
-* Slides available at: https://mariatsji.github.io/kotlin-workshop/
+* Slides available at: https://mariatsji.github.io/kotlin-workshop
 * digi.no article: https://www.digi.no/artikler/flere-dropper-java-i-finn-no-gar-for-kotlin-i-stedet/431962
 
 ### Akka Workshop
@@ -54,7 +54,7 @@ Introductory workshop to Scala and Scala’s Futures and Promises concurrency ab
 
 ### Knockout.js
 Intermediate presentation about the JavaScript framework Knockout.js.
-* Slides available at: http://arild.github.io/knockout_presentation/
+* Slides available at: http://arild.github.io/knockout_presentation
 
 ### Video streaming
 Presentation giving an introduction to Web-based video streaming.
@@ -66,3 +66,5 @@ Explores cluster monitoring using an interactive and high-resolution display wal
 * Demonstration video: http://www.youtube.com/watch?v=8YRnXJhrfDQ
 * Best master thesis award: https://uit.no/nyheter/artikkel?p_document_id=305771
 * Publication in Norsk Informatikk Konferanse: http://www.nik.no/2011/3-3-nilsen11WallMon.pdf
+
+Add description and link to slides
