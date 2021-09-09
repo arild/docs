@@ -20,7 +20,7 @@ Kotlin blog post co-authored with Henrik Brautaset: https://medium.com/finn-no/k
 
 ### Kotlin DSL
 Lightning talk about Kotlin’s DSL (domain specific language). Held at FINN.no TechDay
-* Slides available at: https://www.slideshare.net/arild2/khttps://docs.google.com/presentation/d/1pulniMU5sl8Ch4W_35jBo7PcWKy0F_2IOv4-TR81eP8/edit?usp=sharingotlin-dsl-beats-the-builder-pattern
+* Slides available at: https://www.slideshare.net/arild2/kotlin-dsl-beats-the-builder-pattern
 * Video available at: https://vimeo.com/306299977/6d007e8dc7
 
 ### Kotlin Workshop
