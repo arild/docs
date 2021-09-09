@@ -1,9 +1,9 @@
 ### Techniques for organizing code
-* Slides available at: https://docs.google.com/presentation/d/10WMTVjZYNTsutstoy24Rla7_Tq6WsZHOUdHxkbglE44/edit#slide=id.g9f2cdf75cf_0_13
+* Slides available at: https://docs.google.com/presentation/d/10WMTVjZYNTsutstoy24Rla7_Tq6WsZHOUdHxkbglE44
 
 ### Invoicing out of legacy
 Talk about how team Billing unified and simplified invoicing at FINN.no.
-* Slides available at: https://docs.google.com/presentation/d/1TtWWlCiEULfbNRiEia06q9p6N4dwRZYcOCfxHUbfTJk/edit?usp=sharing
+* Slides available at: https://docs.google.com/presentation/d/1TtWWlCiEULfbNRiEia06q9p6N4dwRZYcOCfxHUbfTJk
 
 ### Rust Workshop
 Introductory workshop to the Rust programming language. Held at FINN.no TechDay
@@ -12,7 +12,7 @@ Introductory workshop to the Rust programming language. Held at FINN.no TechDay
 
 ### The Ideal Team Player 
 Lightning talk summarizing the book The Ideal Team Player. Held at FINN.no TechDay
-* Slides available at: https://docs.google.com/presentation/d/1pulniMU5sl8Ch4W_35jBo7PcWKy0F_2IOv4-TR81eP8/edit?usp=sharing
+* Slides available at: https://docs.google.com/presentation/d/1pulniMU5sl8Ch4W_35jBo7PcWKy0F_2IOv4-TR81eP8
 * Video available at: https://vimeo.com/376348866/e3aa9bef48
 
 ### Kotlin — Efficient code finds your next flight
