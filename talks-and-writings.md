@@ -1,3 +1,20 @@
+### Kotlin DSL
+Talk about Kotlin’s DSL (domain specific language). Held at Posten and FINN.no.
+* Slides available at: https://docs.google.com/presentation/d/1ap-ov9hScLsFB3VFHKPTrKbCNUvTpXqzpnopTBK5VUU
+* Lightning talk version: https://www.slideshare.net/arild2/kotlin-dsl-beats-the-builder-pattern
+
+### Kotlin DSL short video series
+* Part 1 - Building blocks: https://www.youtube.com/watch?v=L0j4sHJbzX0
+* Part 2 - Lambda without parentheses: https://www.youtube.com/watch?v=DQK5LYm6504
+* Part 3 - Lambda with receivers: https://www.youtube.com/watch?v=QPNRUdPmiHM
+* Part 4 - Extension functions: https://www.youtube.com/watch?v=-G59o_8GPSU
+* Part 5 - Putting it together: https://www.youtube.com/watch?v=My-2JSge_ak
+
+### End-to-end testing with Spring Boot
+Talk about using @SpringBootTest for end-to-end testing. Includes a demo and real-world examples. Held at JPro competence day.
+* Slides available at: https://docs.google.com/presentation/d/15gOCVnkMMb5MPzS8g3abrEzzpMO_-p7NtaF3Rk0Ed44
+* Video available at: https://www.youtube.com/watch?v=XO0vufHalS8
+
 ### Techniques for organizing code
 * Slides available at: https://docs.google.com/presentation/d/10WMTVjZYNTsutstoy24Rla7_Tq6WsZHOUdHxkbglE44
 
@@ -13,15 +30,9 @@ Introductory workshop to the Rust programming language. Held at FINN.no TechDay
 ### The Ideal Team Player 
 Lightning talk summarizing the book The Ideal Team Player. Held at FINN.no TechDay
 * Slides available at: https://docs.google.com/presentation/d/1pulniMU5sl8Ch4W_35jBo7PcWKy0F_2IOv4-TR81eP8
-* Video available at: https://vimeo.com/376348866/e3aa9bef48
 
 ### Kotlin — Efficient code finds your next flight
 Kotlin blog post co-authored with Henrik Brautaset: https://medium.com/finn-no/kotlin-efficient-code-finds-your-next-flight-715c1d867cbe
-
-### Kotlin DSL
-Lightning talk about Kotlin’s DSL (domain specific language). Held at FINN.no TechDay
-* Slides available at: https://www.slideshare.net/arild2/kotlin-dsl-beats-the-builder-pattern
-* Video available at: https://vimeo.com/306299977/6d007e8dc7
 
 ### Kotlin Workshop
 Introductory workshop to the Kotlin programming language. Held at FINN.no and NTNU.
@@ -66,5 +77,3 @@ Explores cluster monitoring using an interactive and high-resolution display wal
 * Demonstration video: http://www.youtube.com/watch?v=8YRnXJhrfDQ
 * Best master thesis award: https://uit.no/nyheter/artikkel?p_document_id=305771
 * Publication in Norsk Informatikk Konferanse: http://www.nik.no/2011/3-3-nilsen11WallMon.pdf
-
-Add description and link to slides
