@@ -30,6 +30,7 @@ Introductory workshop to the Rust programming language. Held at FINN.no TechDay
 ### The Ideal Team Player 
 Lightning talk summarizing the book The Ideal Team Player. Held at FINN.no TechDay
 * Slides available at: https://docs.google.com/presentation/d/1pulniMU5sl8Ch4W_35jBo7PcWKy0F_2IOv4-TR81eP8
+* Short 1 minute video: https://drive.google.com/file/d/1b40mqCVeyOVm4NxH7t_ZzuefHjfktERB
 
 ### Kotlin — Efficient code finds your next flight
 Kotlin blog post co-authored with Henrik Brautaset: https://medium.com/finn-no/kotlin-efficient-code-finds-your-next-flight-715c1d867cbe
